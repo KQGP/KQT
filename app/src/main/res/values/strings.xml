@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تقويمي</string>
+
+    <string-array name="date_types">
+        <item>ميلادي الى هجري</item>
+        <item>هجري الى ميلادي</item>
+    </string-array>
+
+    <string name="today_gregorian">التاريخ الميلادي اليوم:</string>
+    <string name="today_hijri">التاريخ الهجري اليوم:</string>
+    <string name="select_date">اختر التاريخ</string>
+    <string name="convert">تحويل</string>
+    <string name="result">النتيجة:</string>
+</resources>
