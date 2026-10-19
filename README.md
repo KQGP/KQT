@@ -36,6 +36,3 @@ cd app  # project root is repo root
 ./gradlew assembleDebug
 ```
 Or open the project in Android Studio and run.
-
-## 📄 License
-No license specified.
